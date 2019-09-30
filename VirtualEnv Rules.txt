@@ -1,0 +1,2 @@
+1) Open terminal and type "projectenv\Scripts\activate" to open the environment
+2) Type "deactivate" to disable
